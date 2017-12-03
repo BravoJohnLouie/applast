@@ -1,0 +1,378 @@
+.frontview{
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	margin: 33%;
+	border-radius: 300px;
+
+}
+.h1{
+	margin: 0px;
+	height: 40px;
+	width: 100%;
+	background-color: #797E70;
+}
+.span1{
+color: white;
+	position: absolute;
+	margin-top: 1100px;
+	text-align: center;
+	width: 965px;
+	height: 50px;
+	margin-right: 5px;
+	align-self: center;
+
+}
+.span2{
+	background-color: #000000;
+	position: absolute;
+	margin-top: 1200px;
+	text-align: center;
+	width: 300px;
+	height: 25px;
+	margin-left: 60px;
+	align-self: center;
+	color: white;
+
+}
+.span3{
+	position: absolute;
+	margin-top: 1250px;
+	text-align:left;
+	width: 300px;
+	height: 25px;
+	margin-left: 500px;
+	color: white;
+	
+
+}
+.profile{
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 30px;
+}
+
+.box{
+	position: absolute;
+	background-color: red;
+	width: 150px;	
+	height: 150px;
+	border: 5px solid black;
+	margin-left: 30px;
+	margin-top: 35px;
+}
+.as-button{
+	border-radius: 30px;
+	border-color: grey;
+}
+.name{
+	position: absolute;
+	margin-left: 210px;
+	margin-top: 105px;
+	background-color: blue;
+}
+.address1{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 210px;
+	margin-top: 175px;
+}
+.show{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 30px;
+	margin-top: 200px;
+}
+.edit{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 145px;
+	margin-top: 200px;
+}
+.D-education{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 75px;
+	margin-top: 250px;
+}
+.picture-elem{
+	position: absolute;
+	margin-left: 75px;
+	margin-top: 280px;
+	width: 150px;	
+	height: 150px;
+	background-color: pink;
+}
+.picture-hs{
+	position: absolute;
+	margin-left: 225px;
+	margin-top: 280px;
+	width: 150px;	
+	height: 150px;
+	background-color: yellow;
+}
+.picture-college{
+	position: absolute;
+	margin-left: 375px;
+	margin-top: 280px;
+	width: 150px;	
+	height: 150px;
+	background-color: pink;
+}
+.more{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 450px;
+	margin-top: 250px;
+}
+.image{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 75px;
+	margin-top: 500px;
+}
+.image-more{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 450px;
+	margin-top: 775px;
+}
+.image-box1{
+	position: absolute;
+	background-color: yellow;
+	margin-left: 75px;
+	margin-top: 530px;
+	width: 225px;	
+	height: 225px;
+	
+}
+.image-box2{
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 530px;
+	width: 225px;	
+	height: 225px;
+	background-color: blue;
+}
+.sample1-profile{
+	height: 200px;
+	width: 200px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 30px;
+	border: 5px solid black;
+}
+.edit-button{
+	margin-top: 205px;
+	margin-left: 187px;
+	position: absolute;
+}
+.profile-button{
+	border-radius: 30px;
+
+}
+.sample1-first{
+	width: 200px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 310px;
+	margin-left: 30px;
+}
+.first{
+	width: 200px;
+	margin-left: 26px;
+	position: absolute;
+	border-color: none;
+}
+.sample1-middle{
+	width: 200px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 340px;
+	margin-left: 30px;
+}
+.middle{
+	width: 200px;
+		margin-left: 9px;
+	background-color: red;
+	position: absolute;
+}
+.sample1-last{
+	width: 200px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 370px;
+	margin-left: 30px;
+}
+.last{
+	width: 200px;
+	margin-left: 28px;
+	background-color: red;
+	position: absolute;
+}
+.sample1-address{
+	width: 200px;
+	background-color: skyblue;
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 30px;
+}
+.address{
+	width: 200px;
+	margin:0px;
+	margin-left: 45px;
+	position: absolute;
+	background-color: yellow;
+	
+}
+.sample1-radio{
+	margin-top: 450px;
+	margin-left: 30px;
+	position: absolute;
+}
+.sample1-birthday{
+	position: absolute;
+	margin-top: 480px;
+	margin-left: 50%;
+}
+.sample1-bdayinfo{
+	
+	width: 75%;
+	position: absolute;
+	margin-top: 500px;
+	text-align: center;
+	margin-left: 12.5%;
+}
+.sample1-button1{
+	margin-top: 530px;
+	margin-left: 30%;
+	border-radius: 30px;
+}
+.sample1-button2{
+	margin-top: 530px;
+	margin-left: 30%;
+	border-radius: 30px;
+}
+.sample2-profile{
+	width: 30%;
+	height: 230px;
+	margin-top: 30px;
+	margin-left: 35%;
+	background-color: pink;
+	position: absolute;
+	border:5px solid black;
+}
+.sample2-span1{
+	width: 80%;
+	background-color: skyblue;
+	margin-top: 300px;
+	margin-left: 10%;
+	position: absolute;
+}
+.sample2-span2{
+	width: 80%;
+	background-color: skyblue;
+	margin-top: 330px;
+	margin-left: 10%;
+	position: absolute;
+}
+.sample2-span3{
+	width: 30%;
+	background-color: skyblue;
+	margin-top: 360px;
+	margin-left: 10%;
+	position: absolute;
+}
+.sample2-span4{
+	width: 45%;
+	background-color: skyblue;
+	margin-top: 360px;
+	margin-left: 45%;
+	position: absolute;
+}
+.sample2-back{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 75%;
+	width: 80px;
+	height: 40px;
+}
+.sample3-box1{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 30px;
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+
+}
+.sample3-box2{
+	position: absolute;
+	margin-top: 280px;
+	margin-left: 30px;
+	height: 200px;
+	width: 200px;
+	background-color: black;
+	
+}
+.sample3-box3{
+	position: absolute;
+	margin-top: 530px;
+	margin-left: 30px;
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	
+}
+.sample3-span1{
+	position: absolute;
+	margin-top: 115px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}
+.sample3-span2{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}
+.sample3-span3{
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}.sample3-span4{
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}.sample3-span5{
+	position: absolute;
+	margin-top: 630px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}.sample3-span6{
+	position: absolute;
+	margin-top: 700px;
+	margin-left: 250px;
+	width: 200px;
+	background-color: red;
+}
+.sample3-buttons{
+	position: absolute;
+	margin-top: 750px;
+	margin-left: 60px;
+
+}
+.sample3-cancel{
+	margin-left: 160px;
+}
+.sample3-more{
+	margin-left: 160px;
+}
